@@ -1,4 +1,4 @@
-### Hi there 👋
+### The concept of DonJong Coin is rooted in the idea of bringing humor and lightheartedness to the crypto space. It takes inspiration from the larger-than-life personalities of two comical figures, known for their eccentricities and unconventional behavior. By leveraging memes, satire, and creative tokenomics, DONJONG seeks to capture the imagination of users and foster a sense of unity and laughter within the community :) 
 
 <!--
 **DonJong/DonJong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
